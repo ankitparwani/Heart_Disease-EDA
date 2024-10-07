@@ -1,4 +1,5 @@
-Heart Disease Exploratory Data Analysis (EDA)
+## Heart Disease Exploratory Data Analysis (EDA)
+
 • Conducted in-depth analysis of a heart disease dataset using Python libraries (Pandas,
 Seaborn, Matplotlib).
 • Visualized data distributions and relationships with various plots: DistPlot for age
